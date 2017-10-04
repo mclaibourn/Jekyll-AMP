@@ -12,16 +12,15 @@ description: >
   Awesome site description here
 logo: "/assets/images/logo.jpg"
 baseurl: "/Jekyll-AMP" # the subpath of your site, e.g. /blog
-url: "https://uvalib.github.io" # the base hostname & protocol for your site
+url: "https://mclaibourn.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'Your Name'
+name: 'Michele Claibourn'
 bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
+  Looking for a Web that Works
 author_image: "/assets/images/author.jpg"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: mclaibourn
+github_username:  mclaibourn
 
 # Google Analytics
 analytics_id: ""
@@ -36,7 +35,7 @@ gems:
   - jekyll-paginate
 
 prose:
-  siteurl: 'https://uvalib.github.io/Jekyll-AMP'
+  siteurl: 'https://mclaibourn.github.io/Jekyll-AMP'
   #relativeLinks: 'http://thetaper.library.virginia.edu/links.jsonp'
   ignore:
     - .gitignore
